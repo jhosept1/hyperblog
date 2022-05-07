@@ -2,12 +2,18 @@ body {
     background-color: white;
   }
   h1 {
-    color: blue;
+    color: white;
     font-family: verdana;
     font-size: 200%;
+    margin: 50px;
+    background-color: blue;
+    text-align: center;
   }
   p {
     color: black;
     font-family: courier;
   font-size: 160%;
+  border: 2px solid powderblue;
+  padding: 30px;
+  margin: 50px;
   }
