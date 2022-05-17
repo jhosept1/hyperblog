@@ -1,5 +1,6 @@
 body {
-    color: red;
+    background: #483535;
+    color: black;
     text-align: center;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
@@ -8,7 +9,6 @@ body {
 }
 
 #cabecera
-
 {
     background: #33A;
     box-shadow: 0px 2px 50px 0px rgb(0,0,0,0.75);
@@ -16,6 +16,11 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 #cabecera #tagline
 {
@@ -34,4 +39,9 @@ body {
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
