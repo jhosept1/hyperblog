@@ -45,3 +45,10 @@ body {
     background: white;
     padding: 1em;
 }
+#footer
+{
+    background: black;
+    color: azure;
+    text-align: center;
+    padding: 1em;
+}
